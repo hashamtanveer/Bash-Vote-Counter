@@ -1,2 +1,2 @@
 # Bash_Vote_Counter
-A bash script that visits every directory in the system to look for default files and counts the votes from those files for a given candidate.
+A bash script that visits every directory in the system to look for default files which contain votes for each candidate and counts the total number of votes for a given candidate.
